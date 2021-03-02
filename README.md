@@ -1,6 +1,6 @@
-# Rutas públicas
+# Proyecto realizado usando React
 
-Proyecto realizado usando React
+-Rutas públicas
 
 - Rutas privadas
 
