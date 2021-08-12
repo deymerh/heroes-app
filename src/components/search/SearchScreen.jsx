@@ -44,7 +44,7 @@ export const SearchScreen = () => {
             (q === '')
             &&
             <div className="alert alert-info">
-              Search  a hero
+              Search a hero
             </div>
           }
           {
